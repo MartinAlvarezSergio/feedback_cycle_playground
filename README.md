@@ -2,7 +2,7 @@
 
 Explore how star formation and supernova feedback interact in a simulated galaxy disk.
 
-This is the standalone GitHub Pages build of the `feedback_cycle` applet from the [physics_demos source collection](https://github.com/MartinAlvarezSergio/physics_demos).
+This is the standalone GitHub Pages build of the `feedback_cycle` applet from the local `physics_demos` source collection.
 
 Live: https://martinalvarezsergio.github.io/feedback_cycle_playground/
 
